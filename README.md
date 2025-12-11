@@ -1,4 +1,4 @@
-# DataDeviceTemplate
+# Phantom Lines Device
 
 A Pen created on CodePen.
 
