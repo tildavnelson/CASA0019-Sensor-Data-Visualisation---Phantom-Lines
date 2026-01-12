@@ -8,6 +8,8 @@ A Pen created on CodePen.
 
 "Phantom lines are dashed lines used in technical drawing to represent features that are not directly visible in the current view".
 
+![IMG_5142](https://github.com/user-attachments/assets/9fc301a5-292c-4e83-aadf-39364c772358)
+
 **Group 23DEC comprised of:**
 - Ananya Kedlaya - Background in Computer science.
 - Matilda Nelson - Background in experimental animation and set design.
@@ -38,6 +40,9 @@ This "hand" object would bring the virtual into the physical, and the physical i
 
 This device takes three-dimensional drawings and places them in the physical world, allowing the virtual design to exist in relation to the surrounding objects rather than remaining confined to a screen. Unlike a VR headset, which can be isolating, this experience is communal, enabling designs to be discussed and experienced collectively by a team. The goal is to get the maker out of their seat and create buildings and objects that have been experienced throughout the making process.
 ## Preliminary Design Concepts for the 'Hand', 'Wand', 'Stick' Device
+
+<img width="1022" height="405" alt="Screenshot 2026-01-12 at 19 21 58" src="https://github.com/user-attachments/assets/b6fa5015-b970-41d2-98af-2d4d7e52d575" />
+
 
 We explored several ways of giving the sensor data object a physical response. One idea was a telescopic wand that would retract when it intersected with virtual boundaries, using linear actuators to translate the rotational motion of a servo into linear movement. Another approach involved inflatable, tentacle-like fingers that would retract as internal cables were pulled by servos. However, we quickly realised that these motion-based methods were not feasible within the timeframe. For the interaction to feel believable, the speed of the servos would need to precisely match the movement of the hand. If the response lagged, the wand would not retract quickly enough to give the impression of the device hitting a virtual surface, meaning the retractions would appear arbitrary.
 ## CHOSEN DESIGN CONCEPT
