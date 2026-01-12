@@ -85,6 +85,7 @@ An accurate, to-scale 3D model of the stick was attached to the AR camera as a c
 <p align="center">
 <img width="1020" height="415" alt="Screenshot 2026-01-12 at 19 28 24" src="https://github.com/user-attachments/assets/97198257-28b6-4edf-9b4d-26c11b9b73b2" />
 </p>
+
 ## LIGHT ON
 
 As the virtual stick was the child of the main camera itself, and a clear representation of the actual physical stick's 3D model, drawn to scale, we could follow its interaction with the planes in the AR models, as the length of the virtual stick passed through any boundary/object, it would intersect and then penetrate within the thickness of the plane. This point of intersection was tracked in Unity.
