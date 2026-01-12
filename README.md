@@ -157,11 +157,11 @@ The seamless interaction between the AR model and the physical stick was establi
 Technical areas of improvement included maintaining a persistent connection between the MQTT publisher and subscriber. In addition, some planes of the AR model were not consistently recognised as part of the Environment layer when calculating points of intersection with the stick. This may have been due to the way Unity updates AR data by referencing the previous frame and repositioning the AR model accordingly. As the physical stick was attached within the camera frame, this may have caused inconsistencies in frame rendering over time, resulting in slightly unreliable intersection detection in certain areas of the AR model.
 
 ## TO DEVELOP
-There are two directions this device could develop in, 
 
-This prototype could be extended into a lightweight, standalone stick capable of taking in 3D models of larger scale architectural or machinery models to help users understand placement or elements within and out of its surroundings.
+This prototype could be further developed into a lightweight, standalone stick capable of displaying larger scaled architectural 3D models in space. The aim is to help users better understand the placement, scale, and relationships of architectural elements within the model and in relation to their surroundings. By bringing the device directly onto the site, the architect could use it to show clients how a future project sits within the existing environment, allowing the design to be experienced spatially rather than only through drawings or screens. Phantom Lines is driven by the intention to create more collaborative ways of communicating architectural projects, allowing design ideas to be understood through direct, spatial experience rather than abstract representations.
+The lighting system could be further refined to convey additional layers of information. For example, light animations could respond when moving through different materials, with colour changes such as red when intersecting metal elements or blue when encountering concrete. This allows material and structural information to be shown directly in space, without relying on drawings or annotations.
+Overall, the device explores data visualisation as a design tool rather than a purely representational one. While the device could be applied to other architectural or digitally modelled environments, the project focuses on using spatial experience as a tool for communication and design iteration.
 
-With the goal of creating collaborative design experiences and understanding user needs to empathise with their requirements, with lowered redundancy in product usability testing.
 
 ## Sources
 
